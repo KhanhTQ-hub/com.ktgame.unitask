@@ -1,5 +1,3 @@
-Provides an efficient async/await integration to Unity.
-
 <table>
     <tr>
         <td>
