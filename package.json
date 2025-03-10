@@ -6,7 +6,7 @@
     "email": "khanhquang0912qh@gmail.com",
     "url": "https://github.com/KhanhTQ-hub"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2019.4",
   "description": "Provides an efficient async/await integration to Unity.",
   "documentationUrl": "https://github.com/Cysharp/UniTask",
