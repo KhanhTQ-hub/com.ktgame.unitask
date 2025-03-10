@@ -51,9 +51,7 @@ namespace Cysharp.Threading.Tasks
 
             UniTaskCompletionSourceCore<object> core;
 
-            WaitUntilPromise()
-            {
-            }
+            WaitUntilPromise() { }
 
             public static IUniTaskSource Create(Func<bool> predicate, PlayerLoopTiming timing, CancellationToken cancellationToken, out short token)
             {
